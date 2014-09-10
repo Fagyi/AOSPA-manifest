@@ -482,10 +482,7 @@
   </project>
 
   <!-- ZTE Skate -->
-  <project name="Fagyi/android_device_zte_skate" path="device/zte/skate" remote="github" revision="aospa-kitkat" />
-  <project name="Fagyi/android_device_zte_msm7x27-common" path="device/zte/msm7x27-common" remote="github" revision="aospa-kitkat" />
-  <project name="androidarmv6/android_device_qcom_msm7x27" path="device/qcom/msm7x27" remote="github" revision="cm-11.0" />
+  <project name="Fagyi/android_device_zte_skate" path="device/zte/skate" remote="github" revision="cm-11.0" />
   <project name="Fagyi/android_kernel_zte_msm7x27" path="kernel/zte/msm7x27" remote="github" revision="cm-11.0" />
-  <project name="androidarmv6/android_vendor_qcom_msm7x27" path="vendor/qcom/msm7x27" remote="github"  revision="cm-11.0" />
-  <project name="androidarmv6/android_vendor_zte" path="vendor/zte" remote="github"  revision="cm-11.0" />
+  <project name="Fagyi/proprietary_vendor_zte" path="vendor/zte" remote="github"  revision="cm-11.0" />
 </manifest>
